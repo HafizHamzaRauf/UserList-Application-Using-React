@@ -1,0 +1,17 @@
+.form {
+  max-width: 40rem;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+.form label,
+.form input {
+  display: block;
+  padding: 5px;
+  margin: 5px;
+  font-weight: bold;
+}
+
+.form input {
+  width: 100%;
+  border: 0.5px solid rgb(182, 180, 178);
+}

@@ -1,0 +1,12 @@
+.users {
+  max-width: 40rem;
+  margin: 2rem auto;
+}
+.users ul {
+  list-style-type: none;
+  padding: 1rem;
+}
+.users li {
+  padding: 1rem;
+  border: 1px solid white;
+}
